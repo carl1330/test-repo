@@ -1,3 +1,3 @@
-# Git & Github - The full course
+# Git & Github - The Full Course
 
-Using firebases Git course to learn how to use Git and Github.
+Using Firebase.io Git course to learn how to use Git and Github.
